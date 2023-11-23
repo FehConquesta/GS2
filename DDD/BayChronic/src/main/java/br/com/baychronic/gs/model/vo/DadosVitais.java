@@ -72,7 +72,7 @@ public class DadosVitais {
      * E @JoinColumn para que o atributo seja armazenado na coluna id_paciente do banco de dados
      */
     @ManyToOne
-    @JoinColumn(name = "id_credencial")
+    @JoinColumn(name = "id_paciente")
     private Paciente idPaciente;
 
     /**
