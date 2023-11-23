@@ -48,7 +48,7 @@ public class PlanoSaudeBO {
      * Metodo para alterar um PlanoSaude existente com base em um ID fornecido
      *
      * @param id O id do PlanoSaude a ser atualizado
-     * @param contato A do PlanoSaude
+     * @param planoSaude A do PlanoSaude
      * @return planoSaudeAtualizado
      */
     public PlanoSaude alterarPlanoSaude(Integer id, PlanoSaude planoSaude){
