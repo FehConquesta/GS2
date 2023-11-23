@@ -25,7 +25,7 @@ public class PlanoSaude {
     private int idPlanoSaude;
     /**
      * Atributo privado String nome
-     * Será responsável por armazenas o nome do plano de saude (ex: Gold 1)
+     * Será responsável por armazenas o nome do plano de saude (ex: Ouro, Prata, Bronze)
      * Foi usado a marcação @Column para mostrar que o atributo será armazenado na coluna nome
      * do banco de dados
      */
@@ -33,7 +33,7 @@ public class PlanoSaude {
     private String nome;
     /**
      * Atributo privado String nivel
-     * Será responsável por armazenas o nivel do plano de saude (ex:varia de 1-5 sendo o nivel 5 o mais baixo e 1 o melhor)
+     * Será responsável por armazenas o nivel do plano de saude (ex:varia de 1-3 sendo o nivel 3 o mais baixo e 1 o melhor)
      * Foi usado a marcação @Column para mostrar que o atributo será armazenado na coluna nivel
      * do banco de dados
      */
