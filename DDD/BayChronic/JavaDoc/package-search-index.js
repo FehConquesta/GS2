@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.baychronic.gs"},{"l":"br.com.baychronic.gs.controller"},{"l":"br.com.baychronic.gs.model.bo"},{"l":"br.com.baychronic.gs.model.dao"},{"l":"br.com.baychronic.gs.model.vo"}];updateSearchResults();
